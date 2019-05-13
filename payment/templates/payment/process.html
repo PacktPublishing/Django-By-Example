@@ -1,8 +1,9 @@
 {% extends "shop/base.html" %}
+{% load i18n %}
 
-{% block title %}Pay using PayPal{% endblock %}
+{% block title %}{% trans "Pay using PayPal" %}{% endblock %}
 
 {% block content %}
-    <h1>Pay using PayPal</h1>
+    <h1>{% trans "Pay using PayPal" %}</h1>
     {{ form.render }}
 {% endblock %}
