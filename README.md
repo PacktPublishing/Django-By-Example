@@ -29,7 +29,12 @@ All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
 ```
+if __name__ == "__main__":
+    os.environ.setdefault("DJANGO_SETTINGS_MODULE", "mysite.settings")
 
+    from django.core.management import execute_from_command_line
+
+    execute_from_command_line(sys.argv)
 ```
 
 **Following is what you need for this book:**
