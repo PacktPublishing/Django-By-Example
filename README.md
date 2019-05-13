@@ -29,64 +29,18 @@ All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
 ```
-0
+
 ```
 
 **Following is what you need for this book:**
 If you are a web developer who is completely new to or familiar with Django and wants to make the most of it, this book is for you. Some basic knowledge of Python, HTML, and JavaScript is recommended.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-).
-### Software and Hardware List
-| Chapter | Software required | OS required |
-| -------- | ------------------------------------ | ----------------------------------- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]().
-
-### Related products
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
 
 ## Get to Know the Author
 **Antonio Mele**
 holds a master's degree in computer science. He has been developing Django projects since 2006 and he leads the django.es Spanish Django community. Antonio founded Zenx IT, a company that develops web applications for clients of several industries. He has also worked as CTO for various technology-based start-ups. His father inspired his passion for computers and programming.
 
-****
-0
-
-****
-0
-
-****
-0
-
-****
-0
-
-## Other books by the authors
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
